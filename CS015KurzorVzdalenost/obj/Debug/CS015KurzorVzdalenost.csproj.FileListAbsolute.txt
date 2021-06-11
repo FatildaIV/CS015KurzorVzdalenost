@@ -1,0 +1,10 @@
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS015KurzorVzdalenost\CS015KurzorVzdalenost\obj\Debug\CS015KurzorVzdalenost.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS015KurzorVzdalenost\CS015KurzorVzdalenost\obj\Debug\CS015KurzorVzdalenost.VzdalenostForm.resources
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS015KurzorVzdalenost\CS015KurzorVzdalenost\obj\Debug\CS015KurzorVzdalenost.Properties.Resources.resources
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS015KurzorVzdalenost\CS015KurzorVzdalenost\obj\Debug\CS015KurzorVzdalenost.csproj.GenerateResource.cache
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS015KurzorVzdalenost\CS015KurzorVzdalenost\obj\Debug\CS015KurzorVzdalenost.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS015KurzorVzdalenost\CS015KurzorVzdalenost\bin\Debug\CS015KurzorVzdalenost.exe.config
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS015KurzorVzdalenost\CS015KurzorVzdalenost\bin\Debug\CS015KurzorVzdalenost.exe
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS015KurzorVzdalenost\CS015KurzorVzdalenost\bin\Debug\CS015KurzorVzdalenost.pdb
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS015KurzorVzdalenost\CS015KurzorVzdalenost\obj\Debug\CS015KurzorVzdalenost.exe
+C:\Users\kajah\OneDrive - SPS-CL\2. ročník\2. pololetí\Programování\C#\CS015KurzorVzdalenost\CS015KurzorVzdalenost\obj\Debug\CS015KurzorVzdalenost.pdb
